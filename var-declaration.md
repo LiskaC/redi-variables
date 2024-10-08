@@ -5,10 +5,13 @@
 *who has seen JS before? What did you learn?*
 
 ## Types of variable declaration
+ - const
+ - let
 
-slide 5
-- var is outdated
+ - var
+var is outdated
 
+## Scope
 - const and let are also able to be scoped globally and functionally.
 
 - useful takeaway: Global vs function vs block scope 
@@ -28,6 +31,7 @@ slide 5
 - You CAN modify const, just not reassign.
 
 **Practice**
+Will they print?
 
   ```
     function dogKennel() {
@@ -66,6 +70,21 @@ slide 5
 
   console.log(rabbit);
   ```
+
+
+# NODE
+This is how we run our javascript
+
+**Check if already present**
+write in your teminal :
+`node -v`
+`npm -v`
+both should print a version number
+
+**Install Node**
+This is how we run our javascript
+https://nodejs.org/en/download/package-manager
+
   
 Done declaring - now how about giving them a value? 
 https://github.com/LiskaC/redi-variables
