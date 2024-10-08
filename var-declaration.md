@@ -39,11 +39,13 @@ Will they print?
     }
 
     console.log(dog);
+    does not print
   ```
 
   ```
     if (true) {
       const cat = "Whiskers";
+      console.log(cat);
     }
 
     console.log(cat);
