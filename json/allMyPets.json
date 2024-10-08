@@ -1,0 +1,23 @@
+[
+  {
+    "species": "dog",
+    "name": "Ptolemy II Philobabushka",
+    "nickname": "Ptoshka",
+    "age": 6,
+    "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwyXeKDN29AmZgZPLS7n0Bepe8QmVappBwZCeA3XWEbWNdiDFB"
+  },
+  {
+    "species": "cat",
+    "name": "Begemot",
+    "nickname": "Motyka",
+    "age": 4,
+    "profilePicture": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x4.jpg"
+  },
+  {
+    "species": "hamster",
+    "name": "Fred Astair",
+    "nickname": "Freddy",
+    "age": 2,
+    "profilePicture": "https://www.getzoo.de/media/image/a6/15/dc/Getzoo-Ratgeber-Hamster-Haltung-Zwerghamster-Goldhamster-1.jpg"
+  }
+]
